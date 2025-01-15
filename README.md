@@ -28,6 +28,11 @@ To run the project, follow these steps:
 4. Press "C" to clear the input field.
 5. Use the "Backspace" button to remove the last entered character.
 
+## Screenshots
+
+![Calculator Screenshot](https://github.com/DevPatel47/Calculator_CSharp/blob/master/Screenshots/Calculator.png)
+![Calculator with Error message](https://github.com/DevPatel47/Calculator_CSharp/blob/master/Screenshots/CalculatorWithErrorMsg.png)
+
 ## Error Handling
 
 If an invalid expression is entered, an error message will appear, notifying the user that the expression is invalid.
